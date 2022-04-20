@@ -2,3 +2,4 @@ add newFile
 Make a git project
 add new test
 new text
+merge test
