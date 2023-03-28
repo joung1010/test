@@ -5,4 +5,4 @@ new text
 merge test
 remote
 local
-
+test
